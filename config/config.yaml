@@ -1,0 +1,6 @@
+  env: "local"
+  storage_path: "/storage/storage.db"
+  http-server:
+    address: "localhost:8082"
+    timout: 4s
+    iddle_timeout: 60s
